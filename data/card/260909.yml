@@ -2,20 +2,20 @@ about:
   description: "Powerful and highly extensible command-line based document and bibliography manager."
   license: GPL-3.0
   homepage: http://papis.readthedocs.io/en/latest/
-  head: 534c0e2
+  head: 69b9060
   archived: false
   latestVersion: "v0.16.0"
   latestRelease: "v0.16.0"
   latestPrerelease: "v0.14rc3"
-  collectedAt: 2026-09-09T05:40:15Z
+  collectedAt: 2026-09-09T19:45:52Z
 timeline:
   created: 2017-02-21
-  lastCommit: 2026-09-01
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-18
   lastRelease: 2026-08-18
   lastPrerelease: 2024-11-08
 popularity:
-  star: 1775
+  star: 1777
   watcher: 20
   fork: 126
   release: 13
@@ -24,7 +24,7 @@ popularity:
   issue: 453
 language:
   HTML: 2873474
-  Python: 1154538
+  Python: 1157354
   Scheme: 9047
   TeX: 6713
   Nix: 6663
@@ -32,7 +32,7 @@ language:
   Shell: 3255
   Emacs Lisp: 1236
   Dockerfile: 1036
-totalBytes: 4059294
+totalBytes: 4062110
 recent:
   last30d:
     since: 2026-08-10
@@ -41,57 +41,57 @@ recent:
     openPR: 3
     closedIssue: 1
     openIssue: 4
-    commit: 14
+    commit: 15
   last60d:
     since: 2026-07-11
     release: 1
-    mergedPR: 19
-    openPR: 5
+    mergedPR: 20
+    openPR: 4
     closedIssue: 3
     openIssue: 4
-    commit: 43
+    commit: 44
   last90d:
     since: 2026-06-11
     release: 1
-    mergedPR: 32
-    openPR: 6
+    mergedPR: 33
+    openPR: 5
     closedIssue: 6
     openIssue: 6
-    commit: 68
+    commit: 69
   last180d:
     since: 2026-03-13
     release: 1
-    mergedPR: 56
-    openPR: 7
+    mergedPR: 57
+    openPR: 6
     closedIssue: 11
     openIssue: 7
-    commit: 131
+    commit: 132
   last360d:
     since: 2025-09-14
     release: 2
-    mergedPR: 103
-    openPR: 9
+    mergedPR: 104
+    openPR: 8
     closedIssue: 25
     openIssue: 17
-    commit: 214
+    commit: 215
   last720d:
     since: 2024-09-19
     release: 6
-    mergedPR: 191
-    openPR: 10
+    mergedPR: 192
+    openPR: 9
     closedIssue: 65
     openIssue: 32
-    commit: 468
+    commit: 469
 total:
   release: 13
-  mergedPR: 632
-  openPR: 12
+  mergedPR: 633
+  openPR: 11
   closedIssue: 380
   openIssue: 73
-  commit: 3616
+  commit: 3617
 ---
 path: /home/runner/.x-repo/github.com/papis/papis
-collectedAt: 2026-09-09T05:40:17Z
+collectedAt: 2026-09-09T19:45:55Z
 loc:
   Json:
     code: 39444
@@ -99,9 +99,9 @@ loc:
     blanks: 0
     files: 57
   Python:
-    code: 27939
-    comments: 1456
-    blanks: 7153
+    code: 28011
+    comments: 1457
+    blanks: 7178
     files: 233
   Html:
     code: 14653
@@ -189,9 +189,9 @@ loc:
     blanks: 12
     files: 5
 total:
-  code: 98324
-  comments: 3120
-  blanks: 12823
+  code: 98396
+  comments: 3121
+  blanks: 12848
   files: 412
 ---
 date: "2026-09-07"
