@@ -1,0 +1,145 @@
+- repo: gnuguix
+  srcname: papis
+  binname: papis
+  visiblename: papis
+  version: 0.15.0
+  origversion: null
+  status: outdated
+  summary: Command-line Bibliography Manager
+- repo: aur
+  srcname: papis
+  binname: papis
+  visiblename: papis
+  version: 0.16.0
+  origversion: 0.16.0-1
+  status: newest
+  summary: Command-line document and bibliography manager
+  maintainers:
+    - gesh@aur
+    - tuurep@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: aur
+  srcname: papis-git
+  binname: papis-git
+  visiblename: papis-git
+  version: 0.15.0.r136.g0f7c026a
+  origversion: 0.15.0.r136.g0f7c026a-1
+  status: rolling
+  summary: Command-line document and bibliography manager
+  maintainers:
+    - sonam@aur
+    - gesh@aur
+    - tuurep@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: homebrew
+  srcname: papis
+  visiblename: papis
+  version: 0.16.0
+  origversion: null
+  status: newest
+  summary: Powerful command-line document and bibliography manager
+- repo: homebrew
+  srcname: papis
+  visiblename: papis
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Powerful command-line document and bibliography manager
+- repo: nix_stable_24_05
+  srcname: papis
+  visiblename: papis
+  version: "0.13"
+  origversion: null
+  status: outdated
+  summary: Powerful command-line document and bibliography manager
+  maintainers:
+    - anothersms@gmail.com
+    - mcoudron@hotmail.com
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: papis
+  visiblename: papis
+  version: "0.13"
+  origversion: null
+  status: outdated
+  summary: Powerful command-line document and bibliography manager
+  maintainers:
+    - anothersms@gmail.com
+    - mcoudron@hotmail.com
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: papis
+  visiblename: papis
+  version: 0.14.1
+  origversion: null
+  status: outdated
+  summary: Powerful command-line document and bibliography manager
+  maintainers:
+    - anothersms@gmail.com
+    - mcoudron@hotmail.com
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: papis
+  visiblename: papis
+  version: 0.14.1
+  origversion: null
+  status: outdated
+  summary: Powerful command-line document and bibliography manager
+  maintainers:
+    - anothersms@gmail.com
+    - mcoudron@hotmail.com
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_26_05
+  srcname: papis
+  visiblename: papis
+  version: 0.15.0
+  origversion: null
+  status: outdated
+  summary: Powerful command-line document and bibliography manager
+  maintainers:
+    - anothersms@gmail.com
+    - mcoudron@hotmail.com
+  licenses:
+    - GPL-3.0-only
+- repo: nix_unstable
+  srcname: papis
+  visiblename: papis
+  version: 0.16.0
+  origversion: null
+  status: newest
+  summary: Powerful command-line document and bibliography manager
+  maintainers:
+    - anothersms@gmail.com
+    - octvs@posteo.de
+  licenses:
+    - GPL-3.0-only
+- repo: parabola
+  subrepo: pcr
+  srcname: papis
+  binname: papis
+  visiblename: papis
+  version: "0.9"
+  origversion: 0.9-1
+  status: outdated
+  summary: Powerful and highly extensible command-line based document and bibliography manager.
+  licenses:
+    - GPL3
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: papis
+  binname: papis
+  visiblename: papis
+  version: 0.15.0
+  origversion: 0.15.0_2
+  status: outdated
+  summary: Command-line based document and bibliography manager
+  maintainers:
+    - xaltsc@protonmail.ch
+  licenses:
+    - GPL-3.0-or-later

@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.16.0"
   latestRelease: "v0.16.0"
   latestPrerelease: "v0.14rc3"
-  collectedAt: 2026-09-10T05:39:24Z
+  collectedAt: 2026-09-10T20:36:12Z
 timeline:
   created: 2017-02-21
   lastCommit: 2026-09-09
@@ -21,7 +21,7 @@ popularity:
   release: 13
   contributor: 60
   pullRequest: 709
-  issue: 453
+  issue: 454
 language:
   HTML: 2873474
   Python: 1157354
@@ -39,7 +39,7 @@ recent:
     release: 1
     mergedPR: 5
     openPR: 4
-    closedIssue: 1
+    closedIssue: 2
     openIssue: 4
     commit: 15
   last60d:
@@ -47,7 +47,7 @@ recent:
     release: 1
     mergedPR: 20
     openPR: 5
-    closedIssue: 3
+    closedIssue: 4
     openIssue: 4
     commit: 44
   last90d:
@@ -55,7 +55,7 @@ recent:
     release: 1
     mergedPR: 33
     openPR: 6
-    closedIssue: 6
+    closedIssue: 7
     openIssue: 6
     commit: 69
   last180d:
@@ -63,7 +63,7 @@ recent:
     release: 1
     mergedPR: 57
     openPR: 7
-    closedIssue: 11
+    closedIssue: 12
     openIssue: 7
     commit: 132
   last360d:
@@ -71,7 +71,7 @@ recent:
     release: 2
     mergedPR: 103
     openPR: 9
-    closedIssue: 24
+    closedIssue: 25
     openIssue: 17
     commit: 215
   last720d:
@@ -79,19 +79,19 @@ recent:
     release: 6
     mergedPR: 192
     openPR: 10
-    closedIssue: 65
+    closedIssue: 66
     openIssue: 32
     commit: 467
 total:
   release: 13
   mergedPR: 633
   openPR: 12
-  closedIssue: 380
+  closedIssue: 381
   openIssue: 73
   commit: 3617
 ---
 path: /home/runner/.x-repo/github.com/papis/papis
-collectedAt: 2026-09-10T05:39:26Z
+collectedAt: 2026-09-10T20:36:14Z
 loc:
   Json:
     code: 39444
