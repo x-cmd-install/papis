@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.16.0"
   latestRelease: "v0.16.0"
   latestPrerelease: "v0.14rc3"
-  collectedAt: 2026-09-11T05:32:54Z
+  collectedAt: 2026-09-11T19:22:35Z
 timeline:
   created: 2017-02-21
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-18
   lastPrerelease: 2024-11-08
 popularity:
-  star: 1777
+  star: 1778
   watcher: 20
   fork: 127
   release: 13
@@ -91,7 +91,7 @@ total:
   commit: 3617
 ---
 path: /home/runner/.x-repo/github.com/papis/papis
-collectedAt: 2026-09-11T05:32:57Z
+collectedAt: 2026-09-11T19:22:39Z
 loc:
   Json:
     code: 39444

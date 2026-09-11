@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1323148,
       "digest": "sha256:a7ce419077bf50bd1db14618c0be971f325a0f331632d4729d5acf8239053c74",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-18T08:00:08Z",
       "updated_at": "2026-08-18T08:00:08Z",
       "browser_download_url": "https://github.com/papis/papis/releases/download/v0.16.0/papis-0.16.0.tar.gz"
