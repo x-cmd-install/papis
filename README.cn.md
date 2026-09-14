@@ -14,12 +14,12 @@ x install papis
 
 ## 代码洞察
 
-合计: **88,248** 行代码（覆盖前 5 种语言、共 **372** 个文件）。
+合计: **88,609** 行代码（覆盖前 5 种语言、共 **372** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Json | 39,444 | 0 | 0 | 57 |
-| Python | 28,011 | 1,457 | 7,178 | 233 |
+| Json | 39,455 | 0 | 0 | 57 |
+| Python | 28,359 | 1,489 | 7,275 | 233 |
 | Html | 14,653 | 403 | 3,457 | 29 |
 | ReStructuredText | 2,903 | 0 | 1,287 | 48 |
 | Yaml | 1,724 | 0 | 0 | 5 |
@@ -42,8 +42,8 @@ x install papis
 
 ## 发布
 
-- **最新版本**: `v0.16.0` (2026-08-18)
-- **最近提交**: 2026-09-09
+- **最新版本**: `v0.16.1` (2026-09-13)
+- **最近提交**: 2026-09-13
 - **Release 含资产**: 2 个
 
 ## 流行度
@@ -52,35 +52,25 @@ x install papis
 
 ## 累计统计
 
-- **发布数**: 13 · **已合并 PR**: 633 · **开放 PR**: 13 · **已关闭 issue**: 381 · **开放 issue**: 73 · **提交数**: 3617
+- **发布数**: 14 · **已合并 PR**: 636 · **开放 PR**: 12 · **已关闭 issue**: 383 · **开放 issue**: 71 · **提交数**: 3632
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 4 | 5 | 1 | 4 | 3 |
-| last60d | 2026-07-15 | 1 | 20 | 6 | 4 | 4 | 42 |
-| 90d | 2026-06-15 | 1 | 32 | 7 | 6 | 5 | 63 |
-| last180d | 2026-03-17 | 1 | 57 | 8 | 12 | 7 | 125 |
-| 360d | 2025-09-18 | 2 | 103 | 10 | 25 | 17 | 213 |
-| last720d | 2024-09-23 | 6 | 192 | 11 | 65 | 32 | 467 |
+| 30d | 2026-08-15 | 2 | 6 | 4 | 2 | 3 | 18 |
+| last60d | 2026-07-16 | 2 | 23 | 5 | 5 | 3 | 57 |
+| 90d | 2026-06-16 | 2 | 35 | 6 | 7 | 4 | 78 |
+| last180d | 2026-03-18 | 2 | 60 | 7 | 13 | 6 | 140 |
+| 360d | 2025-09-19 | 3 | 106 | 9 | 26 | 16 | 228 |
+| last720d | 2024-09-24 | 7 | 195 | 10 | 67 | 30 | 482 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [papis-0.16.0-py3-none-any.whl](https://github.com/papis/papis/releases/download/v0.16.0/papis-0.16.0-py3-none-any.whl) | 307.1 KiB | `other` |
-| [papis-0.16.0.tar.gz](https://github.com/papis/papis/releases/download/v0.16.0/papis-0.16.0.tar.gz) | 1.3 MiB | `native/unknown` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/papis) 上共有 **13** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.16.0` | ✅ latest |
-| Nix unstable | `0.16.0` | ✅ latest |
-| Void | `0.15.0` | ⚠️ outdated |
+| [papis-0.16.1-py3-none-any.whl](https://github.com/papis/papis/releases/download/v0.16.1/papis-0.16.1-py3-none-any.whl) | 309.4 KiB | `other` |
+| [papis-0.16.1.tar.gz](https://github.com/papis/papis/releases/download/v0.16.1/papis-0.16.1.tar.gz) | 1.3 MiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -91,4 +81,4 @@ papis 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:53:23Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:56:26Z._
