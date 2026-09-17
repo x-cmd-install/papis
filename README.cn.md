@@ -26,11 +26,11 @@ x install papis
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.8 / 10**
+总评分: **4.7 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 4/9 approved changesets -- score normalized to 4
+- **Code-Review** (3/10) — Found 4/12 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -58,12 +58,12 @@ x install papis
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 2 | 6 | 5 | 2 | 4 | 18 |
-| last60d | 2026-07-18 | 2 | 22 | 6 | 5 | 4 | 57 |
-| 90d | 2026-06-18 | 2 | 34 | 7 | 7 | 5 | 78 |
-| last180d | 2026-03-20 | 2 | 60 | 8 | 13 | 7 | 140 |
-| 360d | 2025-09-21 | 3 | 105 | 10 | 26 | 17 | 228 |
-| last720d | 2024-09-26 | 7 | 194 | 11 | 66 | 31 | 482 |
+| 30d | 2026-08-18 | 2 | 4 | 5 | 2 | 3 | 18 |
+| last60d | 2026-07-19 | 2 | 22 | 6 | 5 | 4 | 57 |
+| 90d | 2026-06-19 | 2 | 34 | 7 | 7 | 5 | 78 |
+| last180d | 2026-03-21 | 2 | 60 | 8 | 13 | 7 | 140 |
+| 360d | 2025-09-22 | 3 | 105 | 10 | 26 | 17 | 228 |
+| last720d | 2024-09-27 | 7 | 193 | 11 | 66 | 31 | 479 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ papis 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260916.yml` · 2026-09-16T06:05:28Z._
+_数据快照: `data/card/260917.yml` · 2026-09-17T06:05:46Z._
