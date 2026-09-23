@@ -4,7 +4,7 @@
 
 Powerful and highly extensible command-line based document and bibliography manager.
 
-[![x-cmd/install — papis Code Quality Monitoring Repo Card](https://repo.x-cmd.io/papis.svg)](https://x-cmd.com/install/papis)
+[![x-cmd/install — papis Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/papis.svg)](https://x-cmd.com/install/papis)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 6 | 4 | 2 | 3 | 19 |
-| last60d | 2026-07-24 | 2 | 24 | 5 | 6 | 3 | 57 |
-| 90d | 2026-06-24 | 2 | 35 | 6 | 8 | 4 | 78 |
-| last180d | 2026-03-26 | 2 | 58 | 7 | 14 | 6 | 142 |
-| 360d | 2025-09-27 | 3 | 107 | 9 | 27 | 16 | 230 |
-| last720d | 2024-10-02 | 7 | 191 | 10 | 65 | 29 | 474 |
+| 30d | 2026-08-24 | 1 | 6 | 4 | 2 | 3 | 19 |
+| last60d | 2026-07-25 | 2 | 21 | 5 | 6 | 3 | 57 |
+| 90d | 2026-06-25 | 2 | 35 | 6 | 8 | 4 | 78 |
+| last180d | 2026-03-27 | 2 | 58 | 7 | 14 | 6 | 142 |
+| 360d | 2025-09-28 | 3 | 107 | 9 | 27 | 16 | 230 |
+| last720d | 2024-10-03 | 7 | 191 | 10 | 65 | 29 | 474 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for papis lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:58:26Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:55:26Z._
