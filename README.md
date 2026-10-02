@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,787 · **Forks**: 128 · **Open issues**: 455 · **Contributors**: 61
+- **Stars**: 1,787 · **Forks**: 129 · **Open issues**: 455 · **Contributors**: 61
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 1 | 6 | 2 | 1 | 1 | 13 |
-| last60d | 2026-08-02 | 2 | 21 | 5 | 5 | 3 | 54 |
-| 90d | 2026-07-03 | 2 | 31 | 6 | 8 | 4 | 73 |
-| last180d | 2026-04-04 | 2 | 59 | 7 | 13 | 6 | 142 |
-| 360d | 2025-10-06 | 3 | 108 | 9 | 27 | 16 | 223 |
-| last720d | 2024-10-11 | 7 | 193 | 10 | 64 | 29 | 476 |
+| 30d | 2026-09-02 | 1 | 6 | 2 | 1 | 1 | 13 |
+| last60d | 2026-08-03 | 2 | 21 | 5 | 4 | 3 | 54 |
+| 90d | 2026-07-04 | 2 | 31 | 6 | 8 | 4 | 73 |
+| last180d | 2026-04-05 | 2 | 59 | 7 | 13 | 6 | 142 |
+| 360d | 2025-10-07 | 3 | 108 | 9 | 27 | 16 | 223 |
+| last720d | 2024-10-12 | 7 | 192 | 10 | 64 | 29 | 476 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for papis lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:38:42Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:17:28Z._
