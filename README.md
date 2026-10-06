@@ -30,7 +30,7 @@ Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 5/14 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 4/13 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 7 | 2 | 1 | 1 | 12 |
-| last60d | 2026-08-06 | 2 | 20 | 4 | 4 | 3 | 36 |
-| 90d | 2026-07-07 | 2 | 29 | 6 | 6 | 4 | 64 |
-| last180d | 2026-04-08 | 2 | 59 | 7 | 12 | 6 | 131 |
-| 360d | 2025-10-10 | 3 | 108 | 9 | 27 | 16 | 217 |
-| last720d | 2024-10-15 | 7 | 191 | 10 | 62 | 29 | 476 |
+| 30d | 2026-09-06 | 1 | 7 | 2 | 1 | 1 | 12 |
+| last60d | 2026-08-07 | 2 | 20 | 4 | 4 | 3 | 36 |
+| 90d | 2026-07-08 | 2 | 28 | 6 | 6 | 4 | 64 |
+| last180d | 2026-04-09 | 2 | 59 | 7 | 12 | 6 | 131 |
+| 360d | 2025-10-11 | 3 | 108 | 9 | 26 | 16 | 217 |
+| last720d | 2024-10-16 | 7 | 191 | 10 | 62 | 29 | 469 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for papis lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:19:57Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:05:00Z._
