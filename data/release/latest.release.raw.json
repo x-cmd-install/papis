@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 316798,
       "digest": "sha256:182e424c8e2366ac3d8495513e3d9900f92d1903b00df0245f9b0680d3db6464",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-13T19:52:43Z",
       "updated_at": "2026-09-13T19:52:43Z",
       "browser_download_url": "https://github.com/papis/papis/releases/download/v0.16.1/papis-0.16.1-py3-none-any.whl"
