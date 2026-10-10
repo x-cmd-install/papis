@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 1 | 6 | 2 | 1 | 1 | 12 |
-| last60d | 2026-08-10 | 2 | 13 | 4 | 4 | 3 | 36 |
-| 90d | 2026-07-11 | 2 | 28 | 5 | 6 | 3 | 64 |
-| last180d | 2026-04-12 | 2 | 57 | 7 | 11 | 6 | 131 |
-| 360d | 2025-10-14 | 3 | 104 | 9 | 26 | 16 | 217 |
-| last720d | 2024-10-19 | 7 | 190 | 10 | 62 | 29 | 469 |
+| 30d | 2026-09-10 | 1 | 6 | 2 | 0 | 1 | 12 |
+| last60d | 2026-08-11 | 2 | 13 | 4 | 4 | 3 | 36 |
+| 90d | 2026-07-12 | 2 | 28 | 5 | 6 | 3 | 64 |
+| last180d | 2026-04-13 | 2 | 56 | 7 | 11 | 6 | 131 |
+| 360d | 2025-10-15 | 3 | 104 | 9 | 25 | 16 | 217 |
+| last720d | 2024-10-20 | 7 | 190 | 10 | 62 | 29 | 461 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for papis lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:48:10Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:31:51Z._
