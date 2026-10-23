@@ -48,7 +48,7 @@ x install papis
 
 ## 流行度
 
-- **Star**: 1,795 · **Fork**: 129 · **开放 issue**: 456 · **贡献者**: 61
+- **Star**: 1,796 · **Fork**: 129 · **开放 issue**: 456 · **贡献者**: 61
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install papis
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 3 | 0 | 0 | 1 | 3 |
-| last60d | 2026-08-23 | 1 | 9 | 4 | 2 | 4 | 22 |
-| 90d | 2026-07-24 | 2 | 27 | 5 | 6 | 4 | 60 |
-| last180d | 2026-04-25 | 2 | 52 | 6 | 11 | 7 | 123 |
-| 360d | 2025-10-27 | 3 | 100 | 9 | 23 | 17 | 205 |
-| last720d | 2024-11-01 | 7 | 189 | 10 | 60 | 30 | 460 |
+| 30d | 2026-09-23 | 0 | 3 | 0 | 0 | 1 | 3 |
+| last60d | 2026-08-24 | 1 | 9 | 4 | 2 | 4 | 22 |
+| 90d | 2026-07-25 | 2 | 24 | 5 | 6 | 4 | 60 |
+| last180d | 2026-04-26 | 2 | 52 | 6 | 11 | 7 | 123 |
+| 360d | 2025-10-28 | 3 | 99 | 9 | 23 | 17 | 205 |
+| last720d | 2024-11-02 | 7 | 189 | 10 | 60 | 30 | 460 |
 
 ## Release 资产
 
@@ -71,6 +71,16 @@ x install papis
 |------|-----:|----------|
 | [papis-0.16.1-py3-none-any.whl](https://github.com/papis/papis/releases/download/v0.16.1/papis-0.16.1-py3-none-any.whl) | 309.4 KiB | `other` |
 | [papis-0.16.1.tar.gz](https://github.com/papis/papis/releases/download/v0.16.1/papis-0.16.1.tar.gz) | 1.3 MiB | `native/unknown` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/papis) 上共有 **13** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.16.1` | ✅ latest |
+| Nix unstable | `0.16.0` | ⚠️ outdated |
+| Void | `0.15.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -81,4 +91,4 @@ papis 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:25:58Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:28:25Z._
