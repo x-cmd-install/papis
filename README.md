@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,797 · **Forks**: 129 · **Open issues**: 456 · **Contributors**: 61
+- **Stars**: 1,799 · **Forks**: 129 · **Open issues**: 456 · **Contributors**: 61
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 641 · **Open PRs**: 12 · **Closed issues**: 384 · **Open issues**: 72 · **Commits**: 3638
+- **Releases**: 14 · **Merged PRs**: 641 · **Open PRs**: 13 · **Closed issues**: 384 · **Open issues**: 72 · **Commits**: 3638
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 3 | 0 | 0 | 1 | 1 |
-| last60d | 2026-08-30 | 1 | 8 | 3 | 1 | 2 | 14 |
-| 90d | 2026-07-31 | 2 | 22 | 5 | 5 | 4 | 57 |
-| last180d | 2026-05-02 | 2 | 52 | 6 | 11 | 7 | 123 |
-| 360d | 2025-11-03 | 3 | 99 | 9 | 23 | 17 | 204 |
-| last720d | 2024-11-08 | 7 | 184 | 10 | 59 | 29 | 454 |
+| 30d | 2026-09-30 | 0 | 3 | 1 | 0 | 1 | 1 |
+| last60d | 2026-08-31 | 1 | 8 | 3 | 1 | 2 | 14 |
+| 90d | 2026-08-01 | 2 | 22 | 6 | 5 | 4 | 57 |
+| last180d | 2026-05-03 | 2 | 52 | 7 | 11 | 7 | 123 |
+| 360d | 2025-11-04 | 3 | 99 | 10 | 23 | 17 | 204 |
+| last720d | 2024-11-09 | 4 | 184 | 11 | 59 | 28 | 448 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for papis lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:31:35Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:28:55Z._
