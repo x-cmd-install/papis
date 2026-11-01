@@ -14,12 +14,12 @@ x install papis
 
 ## Code insight
 
-Total: **88,663** lines of code across **372** files in the top 5 languages.
+Total: **88,801** lines of code across **372** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 39,455 | 0 | 0 | 57 |
-| Python | 28,413 | 1,487 | 7,286 | 233 |
+| Python | 28,550 | 1,505 | 7,313 | 233 |
 | Html | 14,653 | 403 | 3,457 | 29 |
 | ReStructuredText | 2,903 | 0 | 1,287 | 48 |
 | Yaml | 1,724 | 0 | 0 | 5 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.16.1` (2026-09-13)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-31
 - **Assets in release**: 2
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 641 · **Open PRs**: 13 · **Closed issues**: 384 · **Open issues**: 72 · **Commits**: 3638
+- **Releases**: 14 · **Merged PRs**: 642 · **Open PRs**: 15 · **Closed issues**: 384 · **Open issues**: 72 · **Commits**: 3641
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 1 | 1 | 0 | 1 | 1 |
-| last60d | 2026-09-01 | 1 | 7 | 3 | 1 | 2 | 14 |
-| 90d | 2026-08-02 | 2 | 22 | 6 | 5 | 4 | 57 |
-| last180d | 2026-05-04 | 2 | 52 | 7 | 10 | 7 | 123 |
-| 360d | 2025-11-05 | 3 | 98 | 10 | 23 | 17 | 204 |
-| last720d | 2024-11-10 | 4 | 182 | 11 | 58 | 27 | 448 |
+| 30d | 2026-10-02 | 0 | 2 | 3 | 0 | 1 | 2 |
+| last60d | 2026-09-02 | 1 | 8 | 5 | 1 | 2 | 16 |
+| 90d | 2026-08-03 | 2 | 23 | 8 | 4 | 4 | 38 |
+| last180d | 2026-05-05 | 2 | 53 | 9 | 10 | 7 | 118 |
+| 360d | 2025-11-06 | 3 | 99 | 12 | 23 | 17 | 206 |
+| last720d | 2024-11-11 | 4 | 183 | 13 | 58 | 27 | 447 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for papis lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:19:41Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:48:17Z._
