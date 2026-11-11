@@ -38,22 +38,22 @@ Total: **88,803** lines of code across **372** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,802 · **Forks**: 131 · **Open issues**: 456 · **Contributors**: 61
+- **Stars**: 1,804 · **Forks**: 131 · **Open issues**: 457 · **Contributors**: 61
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 646 · **Open PRs**: 13 · **Closed issues**: 384 · **Open issues**: 72 · **Commits**: 3647
+- **Releases**: 14 · **Merged PRs**: 646 · **Open PRs**: 13 · **Closed issues**: 384 · **Open issues**: 73 · **Commits**: 3647
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 5 | 1 | 0 | 1 | 7 |
-| last60d | 2026-09-11 | 1 | 11 | 3 | 0 | 2 | 12 |
-| 90d | 2026-08-12 | 2 | 18 | 5 | 3 | 4 | 39 |
-| last180d | 2026-05-14 | 2 | 54 | 7 | 9 | 7 | 120 |
-| 360d | 2025-11-15 | 3 | 102 | 9 | 21 | 16 | 199 |
-| last720d | 2024-11-20 | 4 | 185 | 11 | 55 | 26 | 449 |
+| 30d | 2026-10-12 | 0 | 5 | 1 | 0 | 2 | 7 |
+| last60d | 2026-09-12 | 1 | 10 | 3 | 0 | 3 | 12 |
+| 90d | 2026-08-13 | 2 | 17 | 5 | 3 | 5 | 39 |
+| last180d | 2026-05-15 | 2 | 53 | 7 | 9 | 8 | 120 |
+| 360d | 2025-11-16 | 3 | 100 | 9 | 21 | 17 | 199 |
+| last720d | 2024-11-21 | 4 | 185 | 11 | 55 | 27 | 449 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for papis lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:13:38Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:20:43Z._
