@@ -14,12 +14,12 @@ x install papis
 
 ## Code insight
 
-Total: **88,803** lines of code across **372** files in the top 5 languages.
+Total: **88,839** lines of code across **372** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 39,455 | 0 | 0 | 57 |
-| Python | 28,550 | 1,505 | 7,313 | 233 |
+| Python | 28,598 | 1,508 | 7,310 | 233 |
 | Html | 14,653 | 403 | 3,457 | 29 |
 | ReStructuredText | 2,905 | 0 | 1,287 | 48 |
 | Yaml | 1,724 | 0 | 0 | 5 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.16.1` (2026-09-13)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-14
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 1,803 · **Forks**: 131 · **Open issues**: 457 · **Contributors**: 61
+- **Stars**: 1,803 · **Forks**: 132 · **Open issues**: 458 · **Contributors**: 61
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 646 · **Open PRs**: 13 · **Closed issues**: 384 · **Open issues**: 73 · **Commits**: 3647
+- **Releases**: 14 · **Merged PRs**: 650 · **Open PRs**: 12 · **Closed issues**: 387 · **Open issues**: 71 · **Commits**: 3663
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 5 | 1 | 0 | 1 | 7 |
-| last60d | 2026-09-15 | 0 | 9 | 1 | 0 | 2 | 12 |
-| 90d | 2026-08-16 | 2 | 16 | 5 | 3 | 5 | 39 |
-| last180d | 2026-05-18 | 2 | 53 | 7 | 9 | 8 | 120 |
-| 360d | 2025-11-19 | 3 | 96 | 9 | 21 | 17 | 199 |
-| last720d | 2024-11-24 | 4 | 184 | 11 | 55 | 27 | 448 |
+| 30d | 2026-10-16 | 0 | 7 | 2 | 2 | 0 | 10 |
+| last60d | 2026-09-16 | 0 | 11 | 2 | 2 | 1 | 13 |
+| 90d | 2026-08-17 | 2 | 20 | 4 | 6 | 3 | 42 |
+| last180d | 2026-05-19 | 2 | 57 | 6 | 12 | 6 | 131 |
+| 360d | 2025-11-20 | 3 | 100 | 8 | 24 | 15 | 211 |
+| last720d | 2024-11-25 | 4 | 188 | 10 | 58 | 25 | 464 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for papis lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:34:04Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:30:19Z._
