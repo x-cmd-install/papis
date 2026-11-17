@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,803 · **Forks**: 132 · **Open issues**: 458 · **Contributors**: 61
+- **Stars**: 1,804 · **Forks**: 133 · **Open issues**: 458 · **Contributors**: 61
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 7 | 2 | 2 | 0 | 10 |
-| last60d | 2026-09-17 | 0 | 11 | 2 | 2 | 1 | 13 |
-| 90d | 2026-08-18 | 2 | 18 | 4 | 5 | 3 | 42 |
-| last180d | 2026-05-20 | 2 | 57 | 6 | 12 | 6 | 131 |
-| 360d | 2025-11-21 | 3 | 100 | 8 | 24 | 15 | 211 |
-| last720d | 2024-11-26 | 4 | 188 | 10 | 58 | 25 | 464 |
+| 30d | 2026-10-18 | 0 | 7 | 2 | 2 | 0 | 10 |
+| last60d | 2026-09-18 | 0 | 11 | 2 | 2 | 1 | 13 |
+| 90d | 2026-08-19 | 1 | 18 | 4 | 5 | 3 | 42 |
+| last180d | 2026-05-21 | 2 | 57 | 6 | 12 | 6 | 131 |
+| 360d | 2025-11-22 | 3 | 100 | 8 | 24 | 15 | 211 |
+| last720d | 2024-11-27 | 4 | 188 | 10 | 58 | 25 | 464 |
 
 ## Release assets
 
@@ -71,16 +71,6 @@ Lowest-scoring checks:
 |-------|-----:|--------|
 | [papis-0.16.1-py3-none-any.whl](https://github.com/papis/papis/releases/download/v0.16.1/papis-0.16.1-py3-none-any.whl) | 309.4 KiB | `other` |
 | [papis-0.16.1.tar.gz](https://github.com/papis/papis/releases/download/v0.16.1/papis-0.16.1.tar.gz) | 1.3 MiB | `native/unknown` |
-
-## Distribution status
-
-Reported by **13** distros on [repology.org](https://repology.org/project/papis). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.16.1` | ✅ latest |
-| Nix unstable | `0.16.0` | ⚠️ outdated |
-| Void | `0.15.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -91,4 +81,4 @@ Install metadata for papis lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:52:44Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:39:25Z._
