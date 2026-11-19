@@ -30,7 +30,7 @@ Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 3/11 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 2/8 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,804 · **Forks**: 133 · **Open issues**: 458 · **Contributors**: 61
+- **Stars**: 1,806 · **Forks**: 133 · **Open issues**: 458 · **Contributors**: 61
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 650 · **Open PRs**: 12 · **Closed issues**: 387 · **Open issues**: 71 · **Commits**: 3663
+- **Releases**: 14 · **Merged PRs**: 650 · **Open PRs**: 13 · **Closed issues**: 387 · **Open issues**: 71 · **Commits**: 3663
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 7 | 2 | 2 | 0 | 10 |
-| last60d | 2026-09-18 | 0 | 11 | 2 | 2 | 1 | 13 |
-| 90d | 2026-08-19 | 1 | 18 | 4 | 5 | 3 | 42 |
-| last180d | 2026-05-21 | 2 | 57 | 6 | 12 | 6 | 131 |
-| 360d | 2025-11-22 | 3 | 100 | 8 | 24 | 15 | 211 |
-| last720d | 2024-11-27 | 4 | 188 | 10 | 58 | 25 | 464 |
+| 30d | 2026-10-20 | 0 | 7 | 3 | 2 | 0 | 10 |
+| last60d | 2026-09-20 | 0 | 10 | 3 | 2 | 1 | 13 |
+| 90d | 2026-08-21 | 1 | 18 | 5 | 5 | 3 | 42 |
+| last180d | 2026-05-23 | 2 | 56 | 7 | 12 | 5 | 131 |
+| 360d | 2025-11-24 | 3 | 99 | 9 | 24 | 14 | 211 |
+| last720d | 2024-11-29 | 4 | 187 | 11 | 58 | 25 | 464 |
 
 ## Release assets
 
@@ -71,6 +71,16 @@ Lowest-scoring checks:
 |-------|-----:|--------|
 | [papis-0.16.1-py3-none-any.whl](https://github.com/papis/papis/releases/download/v0.16.1/papis-0.16.1-py3-none-any.whl) | 309.4 KiB | `other` |
 | [papis-0.16.1.tar.gz](https://github.com/papis/papis/releases/download/v0.16.1/papis-0.16.1.tar.gz) | 1.3 MiB | `native/unknown` |
+
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/papis). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.16.1` | ✅ latest |
+| Nix unstable | `0.16.0` | ⚠️ outdated |
+| Void | `0.15.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -81,4 +91,4 @@ Install metadata for papis lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:39:25Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:51:30Z._
