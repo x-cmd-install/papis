@@ -14,14 +14,14 @@ x install papis
 
 ## Code insight
 
-Total: **88,841** lines of code across **372** files in the top 5 languages.
+Total: **88,934** lines of code across **372** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 39,455 | 0 | 0 | 57 |
-| Python | 28,600 | 1,508 | 7,309 | 233 |
+| Python | 28,687 | 1,514 | 7,327 | 233 |
 | Html | 14,653 | 403 | 3,457 | 29 |
-| ReStructuredText | 2,905 | 0 | 1,287 | 48 |
+| ReStructuredText | 2,911 | 0 | 1,289 | 48 |
 | Yaml | 1,724 | 0 | 0 | 5 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.16.1` (2026-09-13)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-21
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 1,807 · **Forks**: 133 · **Open issues**: 459 · **Contributors**: 61
+- **Stars**: 1,808 · **Forks**: 133 · **Open issues**: 459 · **Contributors**: 61
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 652 · **Open PRs**: 12 · **Closed issues**: 387 · **Open issues**: 72 · **Commits**: 3668
+- **Releases**: 14 · **Merged PRs**: 653 · **Open PRs**: 12 · **Closed issues**: 388 · **Open issues**: 71 · **Commits**: 3671
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 9 | 3 | 2 | 1 | 13 |
-| last60d | 2026-09-22 | 0 | 12 | 3 | 2 | 2 | 16 |
-| 90d | 2026-08-23 | 1 | 20 | 5 | 5 | 4 | 45 |
-| last180d | 2026-05-25 | 2 | 58 | 6 | 12 | 6 | 134 |
-| 360d | 2025-11-26 | 3 | 101 | 8 | 24 | 15 | 214 |
-| last720d | 2024-12-01 | 4 | 188 | 10 | 58 | 26 | 465 |
+| 30d | 2026-10-23 | 0 | 10 | 3 | 3 | 0 | 13 |
+| last60d | 2026-09-23 | 0 | 13 | 3 | 3 | 1 | 18 |
+| 90d | 2026-08-24 | 1 | 21 | 5 | 6 | 3 | 32 |
+| last180d | 2026-05-26 | 2 | 57 | 6 | 13 | 5 | 122 |
+| 360d | 2025-11-27 | 3 | 102 | 8 | 25 | 14 | 215 |
+| last720d | 2024-12-02 | 4 | 189 | 10 | 59 | 25 | 468 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for papis lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:45:29Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:21:54Z._
