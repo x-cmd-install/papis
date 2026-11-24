@@ -24,16 +24,6 @@ Total: **88,934** lines of code across **372** files in the top 5 languages.
 | ReStructuredText | 2,911 | 0 | 1,289 | 48 |
 | Yaml | 1,724 | 0 | 0 | 5 |
 
-## OpenSSF Scorecard
-
-Overall score: **4.6 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (2/10) — Found 2/8 approved changesets -- score normalized to 2
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## Source
 
 - **Upstream**: <https://github.com/papis/papis>
@@ -48,22 +38,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,808 · **Forks**: 133 · **Open issues**: 459 · **Contributors**: 61
+- **Stars**: 1,808 · **Forks**: 134 · **Open issues**: 459 · **Contributors**: 61
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 653 · **Open PRs**: 12 · **Closed issues**: 388 · **Open issues**: 71 · **Commits**: 3671
+- **Releases**: 14 · **Merged PRs**: 653 · **Open PRs**: 13 · **Closed issues**: 388 · **Open issues**: 71 · **Commits**: 3671
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 10 | 3 | 3 | 0 | 13 |
-| last60d | 2026-09-24 | 0 | 13 | 3 | 3 | 1 | 18 |
-| 90d | 2026-08-25 | 1 | 21 | 5 | 5 | 3 | 32 |
-| last180d | 2026-05-27 | 2 | 57 | 6 | 13 | 5 | 122 |
-| 360d | 2025-11-28 | 3 | 102 | 8 | 25 | 14 | 215 |
-| last720d | 2024-12-03 | 4 | 189 | 10 | 59 | 25 | 468 |
+| 30d | 2026-10-25 | 0 | 10 | 4 | 3 | 0 | 13 |
+| last60d | 2026-09-25 | 0 | 13 | 4 | 3 | 1 | 18 |
+| 90d | 2026-08-26 | 1 | 21 | 6 | 5 | 3 | 32 |
+| last180d | 2026-05-28 | 2 | 56 | 7 | 13 | 5 | 122 |
+| 360d | 2025-11-29 | 3 | 102 | 9 | 25 | 14 | 215 |
+| last720d | 2024-12-04 | 4 | 189 | 11 | 59 | 25 | 468 |
 
 ## Release assets
 
@@ -91,4 +81,4 @@ Install metadata for papis lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:13:25Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:31:20Z._

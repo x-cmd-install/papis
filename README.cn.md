@@ -24,16 +24,6 @@ x install papis
 | ReStructuredText | 2,911 | 0 | 1,289 | 48 |
 | Yaml | 1,724 | 0 | 0 | 5 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4.6 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (2/10) — Found 2/8 approved changesets -- score normalized to 2
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/papis/papis>
@@ -48,22 +38,22 @@ x install papis
 
 ## 流行度
 
-- **Star**: 1,808 · **Fork**: 133 · **开放 issue**: 459 · **贡献者**: 61
+- **Star**: 1,808 · **Fork**: 134 · **开放 issue**: 459 · **贡献者**: 61
 
 ## 累计统计
 
-- **发布数**: 14 · **已合并 PR**: 653 · **开放 PR**: 12 · **已关闭 issue**: 388 · **开放 issue**: 71 · **提交数**: 3671
+- **发布数**: 14 · **已合并 PR**: 653 · **开放 PR**: 13 · **已关闭 issue**: 388 · **开放 issue**: 71 · **提交数**: 3671
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 10 | 3 | 3 | 0 | 13 |
-| last60d | 2026-09-24 | 0 | 13 | 3 | 3 | 1 | 18 |
-| 90d | 2026-08-25 | 1 | 21 | 5 | 5 | 3 | 32 |
-| last180d | 2026-05-27 | 2 | 57 | 6 | 13 | 5 | 122 |
-| 360d | 2025-11-28 | 3 | 102 | 8 | 25 | 14 | 215 |
-| last720d | 2024-12-03 | 4 | 189 | 10 | 59 | 25 | 468 |
+| 30d | 2026-10-25 | 0 | 10 | 4 | 3 | 0 | 13 |
+| last60d | 2026-09-25 | 0 | 13 | 4 | 3 | 1 | 18 |
+| 90d | 2026-08-26 | 1 | 21 | 6 | 5 | 3 | 32 |
+| last180d | 2026-05-28 | 2 | 56 | 7 | 13 | 5 | 122 |
+| 360d | 2025-11-29 | 3 | 102 | 9 | 25 | 14 | 215 |
+| last720d | 2024-12-04 | 4 | 189 | 11 | 59 | 25 | 468 |
 
 ## Release 资产
 
@@ -91,4 +81,4 @@ papis 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T09:13:25Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T11:31:21Z._
