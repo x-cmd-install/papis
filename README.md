@@ -38,7 +38,7 @@ Total: **88,934** lines of code across **372** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,808 · **Forks**: 134 · **Open issues**: 459 · **Contributors**: 61
+- **Stars**: 1,810 · **Forks**: 134 · **Open issues**: 459 · **Contributors**: 61
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **88,934** lines of code across **372** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 10 | 4 | 3 | 0 | 13 |
-| last60d | 2026-09-25 | 0 | 13 | 4 | 3 | 1 | 18 |
-| 90d | 2026-08-26 | 1 | 21 | 6 | 5 | 3 | 32 |
-| last180d | 2026-05-28 | 2 | 56 | 7 | 13 | 5 | 122 |
-| 360d | 2025-11-29 | 3 | 102 | 9 | 25 | 14 | 215 |
-| last720d | 2024-12-04 | 4 | 189 | 11 | 59 | 25 | 468 |
+| 30d | 2026-10-26 | 0 | 10 | 4 | 3 | 0 | 13 |
+| last60d | 2026-09-26 | 0 | 13 | 4 | 3 | 1 | 18 |
+| 90d | 2026-08-27 | 1 | 21 | 6 | 5 | 3 | 32 |
+| last180d | 2026-05-29 | 2 | 55 | 7 | 13 | 5 | 122 |
+| 360d | 2025-11-30 | 3 | 101 | 9 | 25 | 14 | 215 |
+| last720d | 2024-12-05 | 4 | 189 | 11 | 59 | 25 | 468 |
 
 ## Release assets
 
@@ -61,16 +61,6 @@ Total: **88,934** lines of code across **372** files in the top 5 languages.
 |-------|-----:|--------|
 | [papis-0.16.1-py3-none-any.whl](https://github.com/papis/papis/releases/download/v0.16.1/papis-0.16.1-py3-none-any.whl) | 309.4 KiB | `other` |
 | [papis-0.16.1.tar.gz](https://github.com/papis/papis/releases/download/v0.16.1/papis-0.16.1.tar.gz) | 1.3 MiB | `native/unknown` |
-
-## Distribution status
-
-Reported by **13** distros on [repology.org](https://repology.org/project/papis). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.16.1` | ✅ latest |
-| Nix unstable | `0.16.0` | ⚠️ outdated |
-| Void | `0.15.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -81,4 +71,4 @@ Install metadata for papis lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:31:20Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:05:37Z._
